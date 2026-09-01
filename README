@@ -1,0 +1,66 @@
+🏠 Housing Price Prediction
+
+📌 Project Overview
+
+This project predicts the price of a house based on different features such as area, number of bedrooms, bathrooms, house age, parking spaces, floor, distance from the city, and location score.
+
+🎯 Objective
+
+The main objective is to build a Machine Learning model that can predict house prices accurately using historical housing data.
+
+📊 Dataset
+
+The dataset contains 3,000 records and 9 columns.
+
+Features:
+
+- "Area_sqft" – Area of the house in square feet
+- "Bedrooms" – Number of bedrooms
+- "Bathrooms" – Number of bathrooms
+- "House_Age_years" – Age of the house
+- "Parking_Spaces" – Number of parking spaces
+- "Floor" – Floor number
+- "Distance_from_City_km" – Distance from city center
+- "Location_Score" – Location quality score
+
+Target:
+
+- "Price" – Predicted house price
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+🤖 Machine Learning Models
+
+1. Linear Regression
+2. Random Forest Regression
+
+🔄 Project Workflow
+
+Dataset → Data Cleaning → Data Analysis → Feature Selection → Train/Test Split → Model Training → Prediction → Model Evaluation
+
+📈 Evaluation Metrics
+
+The models are evaluated using:
+
+- MAE (Mean Absolute Error)
+- MSE (Mean Squared Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+🚀 Future Improvements
+
+- Use a larger real-world housing dataset
+- Apply advanced regression algorithms
+- Perform hyperparameter tuning
+- Build a web application for real-time house price prediction
+
+👨‍💻 Author
+
+Housing Price Prediction – Machine Learning Project
